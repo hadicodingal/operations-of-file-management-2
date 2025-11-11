@@ -6,4 +6,4 @@ with open("data.txt","r") as f:
     print (data)
     for i in data:
         word=i.split()
-        print (word)
+        print word
